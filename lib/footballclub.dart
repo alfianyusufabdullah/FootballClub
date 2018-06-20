@@ -31,7 +31,6 @@ class FootballClub extends StatelessWidget {
           child: Padding(
             padding: EdgeInsets.all(8.0),
             child: Row(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
                 Padding(
                   padding: EdgeInsets.all(8.0),
